@@ -1,0 +1,26 @@
+{
+  "name": "ethereumapi",
+  "version": "1.0.0",
+  "description": "ethereum api ",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reactivespace/EthereumApi.git"
+  },
+  "keywords": [
+    "ethe",
+    "api"
+  ],
+  "author": "reactivespace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reactivespace/EthereumApi/issues"
+  },
+  "homepage": "https://github.com/reactivespace/EthereumApi#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
